@@ -3,7 +3,7 @@ Logs
 Output
 obj
 .vs
-Library/*Cache
-Library/Temp*
+Library/*Cache*
+Library/*Temp*
 **/*.log
 Library/Artifacts/*
