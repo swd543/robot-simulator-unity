@@ -6,3 +6,4 @@ obj
 Library/*Cache
 Library/Temp*
 **/*.log
+Library/Artifacts/*
